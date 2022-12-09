@@ -1,0 +1,15 @@
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\bin\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.exe
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\bin\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.deps.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\bin\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.runtimeconfig.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\bin\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\bin\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.csproj.AssemblyReference.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.AssemblyInfoInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.AssemblyInfo.cs
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.csproj.CoreCompileInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\refint\nahozdenie_max_iz9_4isel_metod2.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\nahozdenie_max_iz9_4isel_metod2.genruntimeconfig.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\nahozdenie_max_iz9_4isel_metod2\obj\Debug\net6.0\ref\nahozdenie_max_iz9_4isel_metod2.dll

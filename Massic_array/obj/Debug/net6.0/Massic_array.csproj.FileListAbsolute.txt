@@ -1,0 +1,15 @@
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\bin\Debug\net6.0\Massic_array.exe
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\bin\Debug\net6.0\Massic_array.deps.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\bin\Debug\net6.0\Massic_array.runtimeconfig.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\bin\Debug\net6.0\Massic_array.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\bin\Debug\net6.0\Massic_array.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.csproj.AssemblyReference.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.AssemblyInfoInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.AssemblyInfo.cs
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.csproj.CoreCompileInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\refint\Massic_array.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\Massic_array.genruntimeconfig.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massic_array\obj\Debug\net6.0\ref\Massic_array.dll

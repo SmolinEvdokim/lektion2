@@ -1,0 +1,15 @@
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.csproj.AssemblyReference.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.AssemblyInfoInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.AssemblyInfo.cs
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.csproj.CoreCompileInputs.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\bin\Debug\net6.0\Massiv_slu4ainie_4isla.exe
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\bin\Debug\net6.0\Massiv_slu4ainie_4isla.deps.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\bin\Debug\net6.0\Massiv_slu4ainie_4isla.runtimeconfig.json
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\bin\Debug\net6.0\Massiv_slu4ainie_4isla.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\bin\Debug\net6.0\Massiv_slu4ainie_4isla.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\refint\Massiv_slu4ainie_4isla.dll
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.pdb
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\Massiv_slu4ainie_4isla.genruntimeconfig.cache
+C:\Users\Smoli\OneDrive\Рабочий стол\GeekBrains\znakomstva s jazikami Lek\lektion2\Massiv_slu4ainie_4isla\obj\Debug\net6.0\ref\Massiv_slu4ainie_4isla.dll
